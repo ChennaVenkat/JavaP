@@ -1,5 +1,7 @@
 package JavaInterviewPrograms;
 
+// write a program to reverse a string in java without using inbuilt methods
+
 public class ReverseString {
 
 	public static void main(String[] args) {
@@ -13,5 +15,4 @@ public class ReverseString {
 		System.out.println("the actual string is : "+ str);
 		System.out.println("The reversed string is : " + rev);
 	}
-
 }
