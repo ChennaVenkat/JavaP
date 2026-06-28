@@ -10,6 +10,7 @@ public class VowelCount {
 		System.out.println("Enter the String");
 		Scanner sc=new Scanner(System.in);
 		String str=sc.nextLine().toLowerCase();
+		System.out.println("The entered string is : "+str);
 		
 		int count = 0;
 		
